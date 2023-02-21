@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-source ./install.rc
+pip3 install --user -r requirements.txt
